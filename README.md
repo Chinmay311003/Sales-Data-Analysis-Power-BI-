@@ -25,4 +25,6 @@ Developed an interactive Power BI dashboard to analyze sales performance and tre
 If you want to explore the interactive dashboard, check it out on **Power BI Service**:  
 🔗 [Live Dashboard Link](https://app.powerbi.com/groups/me/reports/f0d0f609-5ea2-4643-a886-28ed79452b79/102964b4026221cbc533?experience=power-bi)  
 
+## 📷 Dashboard Preview  
+![Sales Data Analysis Dashboard](https://github.com/Chinmay311003/Sales-Data-Analysis-Power-BI-/blob/main/Screenshot%202025-03-29%20at%209.54.40%20PM.png?raw=true)
 
